@@ -10,7 +10,6 @@
 
 ```
 git clone https://github.com:ciricc/video-chat.git
-
 ```
 
 2) Установить [NodeJS](https://nodejs.org)
@@ -43,24 +42,23 @@ All you need to do is:
 
 1) Clone this repository on your computer
 
-`` `
+```
 Git clone https://github.com:ciricc/video-chat.git
-
-`` `
+```
 
 2) Install [NodeJS] (https://nodejs.org)
 
 3) Write the following commands
 
-`` `
+```
 Cd video-chat
 Npm install
 Node index.js
-`` `
+```
 
 4) Go to http://127.0.0.1:5000
 
-In case the broadcast does not work, go to Vkontakte and find the live broadcast. Open it, then press RMB on it. Select Copy data for diagnostics, and then extract the HLS reference from this data. Main.js first parameterrom method `` `video_stream__init ()` `` object `` `IO_LISTENER```
+In case the broadcast does not work, go to Vkontakte and find the live broadcast. Open it, then press RMB on it. Select Copy data for diagnostics, and then extract the HLS reference from this data. Main.js first parameterrom method ```video_stream__init ()``` object ```IO_LISTENER```
 After that, reload the page. If it does not work again, update your browser.
 
 This is my first experience, I'm completely new to programming, therefore, the code is not the best kind. An example is not a standard, you can write better. All files of other libraries / projects are distributed under the MIT license and within them authors are indicated.
