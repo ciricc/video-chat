@@ -43,7 +43,7 @@ All you need to do is:
 1) Clone this repository on your computer
 
 ```
-Git clone https://github.com/ciricc/video-chat.git
+git clone https://github.com/ciricc/video-chat.git
 ```
 
 2) Install [NodeJS](https://nodejs.org)
@@ -51,9 +51,9 @@ Git clone https://github.com/ciricc/video-chat.git
 3) Write the following commands
 
 ```
-Cd video-chat
-Npm install
-Node index.js
+cd video-chat
+npm install
+node index.js
 ```
 
 4) Go to http://127.0.0.1:5000
