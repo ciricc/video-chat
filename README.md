@@ -46,7 +46,7 @@ All you need to do is:
 Git clone https://github.com/ciricc/video-chat.git
 ```
 
-2) Install [NodeJS] (https://nodejs.org)
+2) Install [NodeJS](https://nodejs.org)
 
 3) Write the following commands
 
