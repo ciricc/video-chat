@@ -1,0 +1,31 @@
+{
+  "name": "video-chat",
+  "version": "0.0.2",
+  "description": "Это видео чат, созданный для поднятия настроения.",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciricc/video-chat"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
